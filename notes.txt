@@ -1,0 +1,8 @@
+html for startscreen:
+        <div class='main-container startscreen gamescreen endscreen'>
+            <div class='start banner'>Choose an Option:</div>
+            <div class='start symbol'>
+            <button name='optionX' class='btn' id='optionX'>X</button>
+            <button name='optionO' class='btn' id='btn optionO'>O</button>
+            </div>
+        </div>
