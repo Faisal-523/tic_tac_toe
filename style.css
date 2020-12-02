@@ -12,6 +12,22 @@
     border:1px solid black;
 
 }
+.resultDiv{
+    font-size: 40px;
+}
+.gamescreen{
+    background-color: yellow;
+    display:grid;
+    grid-template-columns: auto auto auto;
+}
+.box{
+    min-width:100px;
+    min-height:100px;
+    border: 1px solid black;
+    font-size:40px;
+    padding:10px;
+    text-align:center;
+}
 .start{
     margin: 20px;
 }
@@ -20,4 +36,5 @@
     min-width:60px;
     min-height:30px;
     margin: 0 10px 0 10px; 
+    font-weight:500;
 }
